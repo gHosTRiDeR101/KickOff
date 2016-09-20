@@ -1,0 +1,28 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ca.mcgill.ecse321.soccerscorekeepingapp_android.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_download_scores"
+        android:orderInCategory="100"
+        android:title="Download Scores"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_upload_scores"
+        android:orderInCategory="100"
+        android:title="Upload Scores"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_clear_data"
+        android:orderInCategory="101"
+        android:title="Clear All Data"
+        app:showAsAction="never" />
+</menu>

@@ -1,0 +1,32 @@
+<html>
+	<link rel="stylesheet" href="soccer.css" type="text/css" />
+	<body>
+		<table>
+			<tr>
+				<td>
+					<header>
+						ranking :<br>
+					</header>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<?php
+						$arg1 = $_POST["number_of_rankings"];
+						$arg2 = $_POST["ranking_type"]; 
+						$arg3 = $_POST["ranking_strategy"];
+						exec('java -jar SoccerApp.jar {$arg1} {$arg2} {$arg3}', $result);
+						echo $result;
+						echo $count = count($result);
+						for($i=0; $i<$count;$i++)	{
+    							print($result[$i]);
+						}
+
+					?>
+				</td>
+			</tr>
+		</table>
+
+
+	</body>
+</html>

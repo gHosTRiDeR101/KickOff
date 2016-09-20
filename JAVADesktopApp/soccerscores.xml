@@ -1,0 +1,99 @@
+<Manager id="1">
+  <teams id="2">
+    <Team id="3">
+      <name>Canada</name>
+      <points>0</points>
+      <players id="4">
+        <Player id="5">
+          <name>Stephen Harper</name>
+          <infractions id="6">
+            <Infraction id="7">
+              <type>Yellow</type>
+              <isPenaltyKick>true</isPenaltyKick>
+            </Infraction>
+            <Infraction id="8">
+              <type>Yellow</type>
+              <isPenaltyKick>true</isPenaltyKick>
+            </Infraction>
+          </infractions>
+          <shots id="9">
+            <Shot id="10">
+              <isGoal>true</isGoal>
+            </Shot>
+            <Shot id="11">
+              <isGoal>true</isGoal>
+            </Shot>
+          </shots>
+          <team reference="3"/>
+        </Player>
+        <Player id="12">
+          <name>Justin Trudeau</name>
+          <infractions id="13"/>
+          <shots id="14"/>
+          <team reference="3"/>
+        </Player>
+      </players>
+    </Team>
+    <Team id="15">
+      <name>USA</name>
+      <points>3</points>
+      <players id="16">
+        <Player id="17">
+          <name>Barack Obama</name>
+          <infractions id="18"/>
+          <shots id="19"/>
+          <team reference="15"/>
+        </Player>
+        <Player id="20">
+          <name>George Bush</name>
+          <infractions id="21">
+            <Infraction id="22">
+              <type>Yellow</type>
+              <isPenaltyKick>true</isPenaltyKick>
+            </Infraction>
+            <Infraction id="23">
+              <type>Yellow</type>
+              <isPenaltyKick>true</isPenaltyKick>
+            </Infraction>
+          </infractions>
+          <shots id="24">
+            <Shot id="25">
+              <isGoal>true</isGoal>
+            </Shot>
+            <Shot id="26">
+              <isGoal>true</isGoal>
+            </Shot>
+            <Shot id="27">
+              <isGoal>true</isGoal>
+            </Shot>
+          </shots>
+          <team reference="15"/>
+        </Player>
+      </players>
+    </Team>
+  </teams>
+  <matches id="28">
+    <Match id="29">
+      <name>Canada v USA</name>
+      <goals1>2</goals1>
+      <goals2>3</goals2>
+      <teams id="30">
+        <Team reference="3"/>
+        <Team reference="15"/>
+      </teams>
+      <shots id="31">
+        <Shot reference="10"/>
+        <Shot reference="11"/>
+        <Shot reference="25"/>
+        <Shot reference="26"/>
+        <Shot reference="27"/>
+      </shots>
+      <infractions id="32">
+        <Infraction reference="7"/>
+        <Infraction reference="8"/>
+        <Infraction reference="22"/>
+        <Infraction reference="23"/>
+      </infractions>
+    </Match>
+  </matches>
+</Manager>

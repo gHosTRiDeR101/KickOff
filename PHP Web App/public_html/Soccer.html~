@@ -1,0 +1,62 @@
+<html>
+<head>
+	<title> 
+		Soccer Score Keeper
+	</title>
+
+	<link rel="stylesheet" href="soccer.css" type="text/css" />
+
+</head>
+
+<body>
+	<table>
+		<tr>
+			<td>
+				<a href="http://www.mcgill.ca/athletics"><img id="image1" src="http://www.carlislefamilyymca.org/images/uploads/soccer_blk_rgb_jpg_web.jpg" border=0 alt="Soccer Kick"/></a>
+			</td>
+			<td>
+			<table>
+				<tr>
+					<td>
+						<header>
+							Soccer Score Keeper
+						</header>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<section id="menu">
+							<nav>
+								<a href="http://www.cs.mcgill.ca/~jselwy/cgi-bin/Purchase.py?load=reset">Player Analysis</a>
+								<a href="http://www.cs.mcgill.ca/~jselwy/cgi-bin/Purchase.py?load=reset">League Analysis</a>
+							</nav>
+						</section>
+					</td>
+				</tr>
+			</table>
+			</td>
+			<td>
+				<a href="http://www.mcgill.ca/athletics"><img id="image2" src="http://www.carlislefamilyymca.org/images/uploads/soccer_blk_rgb_jpg_web.jpg" border=0 alt="Soccer Kick"/></a>				
+			</td>	
+		</tr>
+	</table>
+
+
+
+        <section id="content">
+		<center>
+		<p><b> Welcome to the Soccer Scorekeeping App! </b> 
+			<br/> Keep track of up to date soccer scores with this website
+		
+
+		</p> 
+		</center>
+
+        </section>
+
+</br>
+	
+
+
+</body>
+</html>

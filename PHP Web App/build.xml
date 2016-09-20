@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+
+<project name="SoccerScoreKeeperApplication" default="jar" basedir=".">
+	<property name="blddir" location="build"/>
+	<property name="classdir" location="${blddir}/classes"/>
+	<property name="jar" location="jar"/>
+	<property name="libdir" location="lib" />
+	
+	<path id="classpath">
+		<fileset dir="lib"/> 
+	</path>
+	
+	<target name="init">
+		<mkdir dir="${blddir}"/>
+		<mkdir dir="${classdir}"/>
+		<mkdir dir="${jar}"/>
+	</target>
+	
+	<target name="compile" depends="init">
+		<javac srcdir="src" destdir="${classdir}">
+		 <classpath>
+			<pathelement path="${classpath}"/>
+			<fileset dir="lib">
+				<include name="**/*.jar"/>
+				<include name="*.jar"/>
+			</fileset>
+		 </classpath>
+		</javac>
+	</target>
+	
+	<target name="jar" depends="compile">
+		<jar destfile="${jar}/SoccerApp.jar" basedir="${classdir}">
+			<zipgroupfileset dir="${libdir}" includes="**/*.jar" />
+			<manifest>
+				<attribute name="Main-Class" value="ca.mcgill.ecse321.soccerscorekeeping.application.SoccerScoreKeeping"/>
+			</manifest>
+		</jar>
+	</target>
+
+	<target name="test">
+		<!-- WRITE TESTS HERE -->
+	</target>
+
+	<target name="clean">
+		<delete dir="${classdir}"/>
+		<delete dir="${blddir}"/>
+		<delete dir="${jar}"/>
+	</target>
+	
+	
+</project>

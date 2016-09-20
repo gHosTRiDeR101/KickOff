@@ -1,0 +1,594 @@
+<Manager id="1">
+  <teams id="2">
+    <Team id="3">
+      <name>Pakistan</name>
+      <points>13</points>
+      <players id="4">
+        <Player id="5">
+          <name>Younis Khan</name>
+          <infractions id="6">
+            <Infraction id="7">
+              <type>YELLOW</type>
+              <isPenaltyKick>false</isPenaltyKick>
+            </Infraction>
+            <Infraction id="8">
+              <type>RED</type>
+              <isPenaltyKick>true</isPenaltyKick>
+            </Infraction>
+            <Infraction id="9">
+              <type>RED</type>
+              <isPenaltyKick>true</isPenaltyKick>
+            </Infraction>
+            <Infraction id="10">
+              <type>Yellow</type>
+              <isPenaltyKick>true</isPenaltyKick>
+            </Infraction>
+          </infractions>
+          <shots id="11">
+            <Shot id="12">
+              <isGoal>true</isGoal>
+            </Shot>
+            <Shot id="13">
+              <isGoal>true</isGoal>
+            </Shot>
+            <Shot id="14">
+              <isGoal>true</isGoal>
+            </Shot>
+            <Shot id="15">
+              <isGoal>true</isGoal>
+            </Shot>
+          </shots>
+          <team reference="3"/>
+        </Player>
+        <Player id="16">
+          <name>Wahab Riaz</name>
+          <infractions id="17">
+            <Infraction id="18">
+              <type>YELLOW</type>
+              <isPenaltyKick>true</isPenaltyKick>
+            </Infraction>
+            <Infraction id="19">
+              <type>YELLOW</type>
+              <isPenaltyKick>false</isPenaltyKick>
+            </Infraction>
+          </infractions>
+          <shots id="20">
+            <Shot id="21">
+              <isGoal>true</isGoal>
+            </Shot>
+            <Shot id="22">
+              <isGoal>true</isGoal>
+            </Shot>
+          </shots>
+          <team reference="3"/>
+        </Player>
+        <Player id="23">
+          <name>Imran Khan</name>
+          <infractions id="24">
+            <Infraction id="25">
+              <type>Yellow</type>
+              <isPenaltyKick>true</isPenaltyKick>
+            </Infraction>
+            <Infraction id="26">
+              <type>Yellow</type>
+              <isPenaltyKick>false</isPenaltyKick>
+            </Infraction>
+            <Infraction id="27">
+              <type>Red</type>
+              <isPenaltyKick>false</isPenaltyKick>
+            </Infraction>
+            <Infraction id="28">
+              <type>Red</type>
+              <isPenaltyKick>true</isPenaltyKick>
+            </Infraction>
+          </infractions>
+          <shots id="29">
+            <Shot id="30">
+              <isGoal>true</isGoal>
+            </Shot>
+            <Shot id="31">
+              <isGoal>false</isGoal>
+            </Shot>
+          </shots>
+          <team reference="3"/>
+        </Player>
+      </players>
+    </Team>
+    <Team id="32">
+      <name>England</name>
+      <points>7</points>
+      <players id="33">
+        <Player id="34">
+          <name>Steven Finn</name>
+          <infractions id="35">
+            <Infraction id="36">
+              <type>RED</type>
+              <isPenaltyKick>true</isPenaltyKick>
+            </Infraction>
+            <Infraction id="37">
+              <type>RED</type>
+              <isPenaltyKick>true</isPenaltyKick>
+            </Infraction>
+            <Infraction id="38">
+              <type>YELLOW</type>
+              <isPenaltyKick>true</isPenaltyKick>
+            </Infraction>
+            <Infraction id="39">
+              <type>YELLOW</type>
+              <isPenaltyKick>true</isPenaltyKick>
+            </Infraction>
+          </infractions>
+          <shots id="40">
+            <Shot id="41">
+              <isGoal>true</isGoal>
+            </Shot>
+            <Shot id="42">
+              <isGoal>true</isGoal>
+            </Shot>
+            <Shot id="43">
+              <isGoal>true</isGoal>
+            </Shot>
+            <Shot id="44">
+              <isGoal>true</isGoal>
+            </Shot>
+            <Shot id="45">
+              <isGoal>true</isGoal>
+            </Shot>
+            <Shot id="46">
+              <isGoal>true</isGoal>
+            </Shot>
+            <Shot id="47">
+              <isGoal>true</isGoal>
+            </Shot>
+            <Shot id="48">
+              <isGoal>true</isGoal>
+            </Shot>
+            <Shot id="49">
+              <isGoal>true</isGoal>
+            </Shot>
+            <Shot id="50">
+              <isGoal>true</isGoal>
+            </Shot>
+          </shots>
+          <team reference="32"/>
+        </Player>
+      </players>
+    </Team>
+  </teams>
+  <matches id="51">
+    <Match id="52">
+      <name>Pakistan v England</name>
+      <goals1>3</goals1>
+      <goals2>0</goals2>
+      <teams id="53">
+        <Team reference="3"/>
+        <Team reference="32"/>
+      </teams>
+      <shots id="54">
+        <Shot id="55">
+          <isGoal>true</isGoal>
+        </Shot>
+        <Shot id="56">
+          <isGoal>true</isGoal>
+        </Shot>
+        <Shot id="57">
+          <isGoal>true</isGoal>
+        </Shot>
+      </shots>
+      <infractions id="58">
+        <Infraction reference="7"/>
+        <Infraction reference="36"/>
+      </infractions>
+    </Match>
+    <Match id="59">
+      <name>Pakistan v England</name>
+      <goals1>6</goals1>
+      <goals2>5</goals2>
+      <teams id="60">
+        <Team reference="3"/>
+        <Team reference="32"/>
+      </teams>
+      <shots id="61">
+        <Shot reference="12"/>
+        <Shot reference="13"/>
+        <Shot reference="14"/>
+        <Shot reference="15"/>
+        <Shot reference="21"/>
+        <Shot reference="22"/>
+        <Shot reference="41"/>
+        <Shot reference="42"/>
+        <Shot reference="43"/>
+        <Shot reference="44"/>
+        <Shot reference="45"/>
+      </shots>
+      <infractions id="62"/>
+    </Match>
+    <Match id="63">
+      <name>Pakistan v England</name>
+      <goals1>0</goals1>
+      <goals2>0</goals2>
+      <teams id="64">
+        <Team reference="3"/>
+        <Team reference="32"/>
+      </teams>
+      <shots id="65"/>
+      <infractions id="66">
+        <Infraction reference="8"/>
+        <Infraction reference="37"/>
+        <Infraction reference="18"/>
+        <Infraction reference="19"/>
+        <Infraction reference="38"/>
+        <Infraction reference="39"/>
+        <Infraction reference="9"/>
+      </infractions>
+    </Match>
+    <Match id="67">
+      <name>Pakistan v England</name>
+      <goals1>0</goals1>
+      <goals2>0</goals2>
+      <teams id="68">
+        <Team reference="3"/>
+        <Team reference="32"/>
+      </teams>
+      <shots id="69"/>
+      <infractions id="70"/>
+    </Match>
+    <Match id="71">
+      <name>Pakistan v England</name>
+      <goals1>0</goals1>
+      <goals2>0</goals2>
+      <teams id="72">
+        <Team reference="3"/>
+        <Team reference="32"/>
+      </teams>
+      <shots id="73"/>
+      <infractions id="74"/>
+    </Match>
+    <Match id="75">
+      <name>Pakistan v England</name>
+      <goals1>0</goals1>
+      <goals2>0</goals2>
+      <teams id="76">
+        <Team reference="3"/>
+        <Team reference="32"/>
+      </teams>
+      <shots id="77"/>
+      <infractions id="78"/>
+    </Match>
+    <Match id="79">
+      <name>Pakistan v England</name>
+      <goals1>0</goals1>
+      <goals2>0</goals2>
+      <teams id="80">
+        <Team reference="3"/>
+        <Team reference="32"/>
+      </teams>
+      <shots id="81"/>
+      <infractions id="82"/>
+    </Match>
+    <Match id="83">
+      <name>Pakistan v England</name>
+      <goals1>0</goals1>
+      <goals2>0</goals2>
+      <teams id="84">
+        <Team reference="3"/>
+        <Team reference="32"/>
+      </teams>
+      <shots id="85"/>
+      <infractions id="86"/>
+    </Match>
+    <Match id="87">
+      <name>Pakistan v England</name>
+      <goals1>0</goals1>
+      <goals2>0</goals2>
+      <teams id="88">
+        <Team reference="3"/>
+        <Team reference="32"/>
+      </teams>
+      <shots id="89"/>
+      <infractions id="90"/>
+    </Match>
+    <Match id="91">
+      <name>Pakistan v England</name>
+      <goals1>0</goals1>
+      <goals2>0</goals2>
+      <teams id="92">
+        <Team reference="3"/>
+        <Team reference="32"/>
+      </teams>
+      <shots id="93"/>
+      <infractions id="94"/>
+    </Match>
+    <Match id="95">
+      <name>Pakistan v England</name>
+      <goals1>0</goals1>
+      <goals2>0</goals2>
+      <teams id="96">
+        <Team reference="3"/>
+        <Team reference="32"/>
+      </teams>
+      <shots id="97"/>
+      <infractions id="98"/>
+    </Match>
+    <Match id="99">
+      <name>Pakistan v England</name>
+      <goals1>0</goals1>
+      <goals2>0</goals2>
+      <teams id="100">
+        <Team reference="3"/>
+        <Team reference="32"/>
+      </teams>
+      <shots id="101"/>
+      <infractions id="102"/>
+    </Match>
+    <Match id="103">
+      <name>England v Pakistan</name>
+      <goals1>0</goals1>
+      <goals2>0</goals2>
+      <teams id="104">
+        <Team reference="32"/>
+        <Team reference="3"/>
+      </teams>
+      <shots id="105"/>
+      <infractions id="106"/>
+    </Match>
+    <Match id="107">
+      <name>England v Pakistan</name>
+      <goals1>0</goals1>
+      <goals2>1</goals2>
+      <teams id="108">
+        <Team reference="32"/>
+        <Team reference="3"/>
+      </teams>
+      <shots id="109">
+        <Shot reference="30"/>
+        <Shot reference="31"/>
+      </shots>
+      <infractions id="110">
+        <Infraction reference="25"/>
+        <Infraction reference="26"/>
+        <Infraction reference="27"/>
+        <Infraction reference="28"/>
+      </infractions>
+    </Match>
+    <Match id="111">
+      <name>Pakistan v England</name>
+      <goals1>0</goals1>
+      <goals2>0</goals2>
+      <teams id="112">
+        <Team reference="3"/>
+        <Team reference="32"/>
+      </teams>
+      <shots id="113"/>
+      <infractions id="114"/>
+    </Match>
+    <Match id="115">
+      <name>Pakistan v England</name>
+      <goals1>0</goals1>
+      <goals2>0</goals2>
+      <teams id="116">
+        <Team reference="3"/>
+        <Team reference="32"/>
+      </teams>
+      <shots id="117"/>
+      <infractions id="118"/>
+    </Match>
+    <Match id="119">
+      <name>Pakistan v England</name>
+      <goals1>0</goals1>
+      <goals2>0</goals2>
+      <teams id="120">
+        <Team reference="3"/>
+        <Team reference="32"/>
+      </teams>
+      <shots id="121"/>
+      <infractions id="122"/>
+    </Match>
+    <Match id="123">
+      <name>Pakistan v England</name>
+      <goals1>0</goals1>
+      <goals2>0</goals2>
+      <teams id="124">
+        <Team reference="3"/>
+        <Team reference="32"/>
+      </teams>
+      <shots id="125"/>
+      <infractions id="126"/>
+    </Match>
+    <Match id="127">
+      <name>Pakistan v England</name>
+      <goals1>0</goals1>
+      <goals2>0</goals2>
+      <teams id="128">
+        <Team reference="3"/>
+        <Team reference="32"/>
+      </teams>
+      <shots id="129"/>
+      <infractions id="130"/>
+    </Match>
+    <Match id="131">
+      <name>Pakistan v England</name>
+      <goals1>0</goals1>
+      <goals2>0</goals2>
+      <teams id="132">
+        <Team reference="3"/>
+        <Team reference="32"/>
+      </teams>
+      <shots id="133"/>
+      <infractions id="134"/>
+    </Match>
+    <Match id="135">
+      <name>England v Pakistan</name>
+      <goals1>0</goals1>
+      <goals2>0</goals2>
+      <teams id="136">
+        <Team reference="32"/>
+        <Team reference="3"/>
+      </teams>
+      <shots id="137"/>
+      <infractions id="138"/>
+    </Match>
+    <Match id="139">
+      <name>Pakistan v England</name>
+      <goals1>0</goals1>
+      <goals2>0</goals2>
+      <teams id="140">
+        <Team reference="3"/>
+        <Team reference="32"/>
+      </teams>
+      <shots id="141"/>
+      <infractions id="142"/>
+    </Match>
+    <Match id="143">
+      <name>Pakistan v England</name>
+      <goals1>0</goals1>
+      <goals2>0</goals2>
+      <teams id="144">
+        <Team reference="3"/>
+        <Team reference="32"/>
+      </teams>
+      <shots id="145"/>
+      <infractions id="146"/>
+    </Match>
+    <Match id="147">
+      <name>Pakistan v England</name>
+      <goals1>0</goals1>
+      <goals2>0</goals2>
+      <teams id="148">
+        <Team reference="3"/>
+        <Team reference="32"/>
+      </teams>
+      <shots id="149"/>
+      <infractions id="150"/>
+    </Match>
+    <Match id="151">
+      <name>Pakistan v England</name>
+      <goals1>0</goals1>
+      <goals2>0</goals2>
+      <teams id="152">
+        <Team reference="3"/>
+        <Team reference="32"/>
+      </teams>
+      <shots id="153"/>
+      <infractions id="154"/>
+    </Match>
+    <Match id="155">
+      <name>Pakistan v England</name>
+      <goals1>0</goals1>
+      <goals2>0</goals2>
+      <teams id="156">
+        <Team reference="3"/>
+        <Team reference="32"/>
+      </teams>
+      <shots id="157"/>
+      <infractions id="158"/>
+    </Match>
+    <Match id="159">
+      <name>Pakistan v England</name>
+      <goals1>0</goals1>
+      <goals2>0</goals2>
+      <teams id="160">
+        <Team reference="3"/>
+        <Team reference="32"/>
+      </teams>
+      <shots id="161"/>
+      <infractions id="162"/>
+    </Match>
+    <Match id="163">
+      <name>Pakistan v England</name>
+      <goals1>0</goals1>
+      <goals2>0</goals2>
+      <teams id="164">
+        <Team reference="3"/>
+        <Team reference="32"/>
+      </teams>
+      <shots id="165"/>
+      <infractions id="166"/>
+    </Match>
+    <Match id="167">
+      <name>Pakistan v England</name>
+      <goals1>0</goals1>
+      <goals2>0</goals2>
+      <teams id="168">
+        <Team reference="3"/>
+        <Team reference="32"/>
+      </teams>
+      <shots id="169"/>
+      <infractions id="170"/>
+    </Match>
+    <Match id="171">
+      <name>Pakistan v England</name>
+      <goals1>0</goals1>
+      <goals2>0</goals2>
+      <teams id="172">
+        <Team reference="3"/>
+        <Team reference="32"/>
+      </teams>
+      <shots id="173"/>
+      <infractions id="174"/>
+    </Match>
+    <Match id="175">
+      <name>Pakistan v England</name>
+      <goals1>0</goals1>
+      <goals2>0</goals2>
+      <teams id="176">
+        <Team reference="3"/>
+        <Team reference="32"/>
+      </teams>
+      <shots id="177"/>
+      <infractions id="178"/>
+    </Match>
+    <Match id="179">
+      <name>Pakistan v England</name>
+      <goals1>0</goals1>
+      <goals2>0</goals2>
+      <teams id="180">
+        <Team reference="3"/>
+        <Team reference="32"/>
+      </teams>
+      <shots id="181"/>
+      <infractions id="182"/>
+    </Match>
+    <Match id="183">
+      <name>Pakistan v England</name>
+      <goals1>0</goals1>
+      <goals2>5</goals2>
+      <teams id="184">
+        <Team reference="3"/>
+        <Team reference="32"/>
+      </teams>
+      <shots id="185">
+        <Shot reference="46"/>
+        <Shot reference="47"/>
+        <Shot reference="48"/>
+        <Shot reference="49"/>
+        <Shot reference="50"/>
+      </shots>
+      <infractions id="186"/>
+    </Match>
+    <Match id="187">
+      <name>Pakistan v England</name>
+      <goals1>0</goals1>
+      <goals2>0</goals2>
+      <teams id="188">
+        <Team reference="3"/>
+        <Team reference="32"/>
+      </teams>
+      <shots id="189"/>
+      <infractions id="190">
+        <Infraction reference="10"/>
+      </infractions>
+    </Match>
+    <Match id="191">
+      <name>Pakistan v England</name>
+      <goals1>0</goals1>
+      <goals2>0</goals2>
+      <teams id="192">
+        <Team reference="3"/>
+        <Team reference="32"/>
+      </teams>
+      <shots id="193"/>
+      <infractions id="194"/>
+    </Match>
+  </matches>
+</Manager>

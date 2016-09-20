@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="KickOff">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jar/KickOff.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

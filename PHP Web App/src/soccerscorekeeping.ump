@@ -1,0 +1,79 @@
+namespace ca.mcgill.ecse321.soccerscorekeeping.model;
+
+class Manager
+{
+  singleton;
+  1 -> * Team teams;
+  1 -> * Match matches;
+}
+
+class Match
+{
+  String name;
+  Integer goals1;
+  Integer goals2;
+  1 -> 2 Team teams;
+  1 -> * Shot shots;
+  1 -> * Infraction infractions;
+}
+
+class Team
+{
+  String name;
+  Integer points;
+  1 -> * Player players;
+}
+
+class Player
+{
+  String name;
+  1 -> * Infraction infractions;
+  1 -> * Shot shots;
+  * -> 1 Team team;
+}
+
+class Infraction
+{
+  String type;
+  boolean isPenaltyKick;
+}
+
+class Shot
+{
+  boolean isGoal;
+}//$?[End_of_model]$?
+
+class Manager
+{
+  position 7 29 109 45;
+  position.association Manager__Match:matches 110,34 0,4;
+}
+
+class Match
+{
+  position 210 32 109 45;
+  position.association Match__Shot:shots 110,10 0,10;
+}
+
+class Team
+{
+  position 436 292 125 75;
+  position.association Player:players__Team 0,53 114,10;
+}
+
+class Player
+{
+  position 16 215 113 58;
+  position.association Player__Shot:shots 114,4 0,10;
+  position.association Infraction:infractions__Player 33,58 30,0;
+}
+
+class Infraction
+{
+  position 169 351 176 75;
+}
+
+class Shot
+{
+  position 422 38 129 58;
+}

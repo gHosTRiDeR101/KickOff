@@ -1,0 +1,1315 @@
+<Manager id="1">
+  <teams id="2">
+    <Team id="3">
+      <name>Germany</name>
+      <points>6</points>
+      <players id="4">
+        <Player id="5">
+          <name>Neuer</name>
+          <infractions id="6"/>
+          <shots id="7"/>
+          <team reference="3"/>
+        </Player>
+        <Player id="8">
+          <name>Hoewedes</name>
+          <infractions id="9">
+            <Infraction id="10">
+              <type>YELLOW</type>
+              <isPenaltyKick>false</isPenaltyKick>
+            </Infraction>
+          </infractions>
+          <shots id="11"/>
+          <team reference="3"/>
+        </Player>
+        <Player id="12">
+          <name>Schweinsteiger</name>
+          <infractions id="13">
+            <Infraction id="14">
+              <type>YELLOW</type>
+              <isPenaltyKick>false</isPenaltyKick>
+            </Infraction>
+          </infractions>
+          <shots id="15"/>
+          <team reference="3"/>
+        </Player>
+        <Player id="16">
+          <name>Podolski</name>
+          <infractions id="17"/>
+          <shots id="18"/>
+          <team reference="3"/>
+        </Player>
+        <Player id="19">
+          <name>Mueller</name>
+          <infractions id="20"/>
+          <shots id="21">
+            <Shot id="22">
+              <isGoal>true</isGoal>
+            </Shot>
+          </shots>
+          <team reference="3"/>
+        </Player>
+        <Player id="23">
+          <name>Lahm</name>
+          <infractions id="24"/>
+          <shots id="25"/>
+          <team reference="3"/>
+        </Player>
+        <Player id="26">
+          <name>Goetze</name>
+          <infractions id="27"/>
+          <shots id="28">
+            <Shot id="29">
+              <isGoal>true</isGoal>
+            </Shot>
+          </shots>
+          <team reference="3"/>
+        </Player>
+        <Player id="30">
+          <name>Hummels</name>
+          <infractions id="31"/>
+          <shots id="32"/>
+          <team reference="3"/>
+        </Player>
+        <Player id="33">
+          <name>Grobkreutz</name>
+          <infractions id="34"/>
+          <shots id="35"/>
+          <team reference="3"/>
+        </Player>
+        <Player id="36">
+          <name>Oezil</name>
+          <infractions id="37"/>
+          <shots id="38"/>
+          <team reference="3"/>
+        </Player>
+        <Player id="39">
+          <name>Klose</name>
+          <infractions id="40"/>
+          <shots id="41">
+            <Shot id="42">
+              <isGoal>true</isGoal>
+            </Shot>
+          </shots>
+          <team reference="3"/>
+        </Player>
+        <Player id="43">
+          <name>Draxler</name>
+          <infractions id="44"/>
+          <shots id="45"/>
+          <team reference="3"/>
+        </Player>
+        <Player id="46">
+          <name>Mertesacker</name>
+          <infractions id="47"/>
+          <shots id="48"/>
+          <team reference="3"/>
+        </Player>
+        <Player id="49">
+          <name>Boateng</name>
+          <infractions id="50"/>
+          <shots id="51"/>
+          <team reference="3"/>
+        </Player>
+        <Player id="52">
+          <name>Kramer</name>
+          <infractions id="53"/>
+          <shots id="54"/>
+          <team reference="3"/>
+        </Player>
+        <Player id="55">
+          <name>Ginter</name>
+          <infractions id="56"/>
+          <shots id="57"/>
+          <team reference="3"/>
+        </Player>
+        <Player id="58">
+          <name>Khedira</name>
+          <infractions id="59"/>
+          <shots id="60">
+            <Shot id="61">
+              <isGoal>true</isGoal>
+            </Shot>
+          </shots>
+          <team reference="3"/>
+        </Player>
+        <Player id="62">
+          <name>Schuerrle</name>
+          <infractions id="63"/>
+          <shots id="64">
+            <Shot id="65">
+              <isGoal>true</isGoal>
+            </Shot>
+            <Shot id="66">
+              <isGoal>true</isGoal>
+            </Shot>
+          </shots>
+          <team reference="3"/>
+        </Player>
+        <Player id="67">
+          <name>Durm</name>
+          <infractions id="68"/>
+          <shots id="69"/>
+          <team reference="3"/>
+        </Player>
+        <Player id="70">
+          <name>Kroos</name>
+          <infractions id="71"/>
+          <shots id="72">
+            <Shot id="73">
+              <isGoal>true</isGoal>
+            </Shot>
+            <Shot id="74">
+              <isGoal>true</isGoal>
+            </Shot>
+          </shots>
+          <team reference="3"/>
+        </Player>
+        <Player id="75">
+          <name>Mustafi</name>
+          <infractions id="76"/>
+          <shots id="77"/>
+          <team reference="3"/>
+        </Player>
+      </players>
+    </Team>
+    <Team id="78">
+      <name>Argentina</name>
+      <points>3</points>
+      <players id="79">
+        <Player id="80">
+          <name>Romero</name>
+          <infractions id="81"/>
+          <shots id="82"/>
+          <team reference="78"/>
+        </Player>
+        <Player id="83">
+          <name>Zabaleta</name>
+          <infractions id="84"/>
+          <shots id="85"/>
+          <team reference="78"/>
+        </Player>
+        <Player id="86">
+          <name>DiMaria</name>
+          <infractions id="87"/>
+          <shots id="88"/>
+          <team reference="78"/>
+        </Player>
+        <Player id="89">
+          <name>Messi</name>
+          <infractions id="90"/>
+          <shots id="91">
+            <Shot id="92">
+              <isGoal>true</isGoal>
+            </Shot>
+          </shots>
+          <team reference="78"/>
+        </Player>
+        <Player id="93">
+          <name>Fernandez</name>
+          <infractions id="94"/>
+          <shots id="95"/>
+          <team reference="78"/>
+        </Player>
+        <Player id="96">
+          <name>Rojo</name>
+          <infractions id="97"/>
+          <shots id="98"/>
+          <team reference="78"/>
+        </Player>
+        <Player id="99">
+          <name>Alvarez</name>
+          <infractions id="100"/>
+          <shots id="101"/>
+          <team reference="78"/>
+        </Player>
+        <Player id="102">
+          <name>Lavezzi</name>
+          <infractions id="103"/>
+          <shots id="104"/>
+          <team reference="78"/>
+        </Player>
+        <Player id="105">
+          <name>Garay</name>
+          <infractions id="106"/>
+          <shots id="107">
+            <Shot id="108">
+              <isGoal>true</isGoal>
+            </Shot>
+          </shots>
+          <team reference="78"/>
+        </Player>
+        <Player id="109">
+          <name>Gago</name>
+          <infractions id="110"/>
+          <shots id="111"/>
+          <team reference="78"/>
+        </Player>
+        <Player id="112">
+          <name>Perez</name>
+          <infractions id="113"/>
+          <shots id="114"/>
+          <team reference="78"/>
+        </Player>
+        <Player id="115">
+          <name>Rodriguez</name>
+          <infractions id="116"/>
+          <shots id="117">
+            <Shot id="118">
+              <isGoal>true</isGoal>
+            </Shot>
+          </shots>
+          <team reference="78"/>
+        </Player>
+        <Player id="119">
+          <name>Mascherano</name>
+          <infractions id="120">
+            <Infraction id="121">
+              <type>YELLOW</type>
+              <isPenaltyKick>false</isPenaltyKick>
+            </Infraction>
+          </infractions>
+          <shots id="122"/>
+          <team reference="78"/>
+        </Player>
+        <Player id="123">
+          <name>Fernandez</name>
+          <infractions id="124"/>
+          <shots id="125"/>
+          <team reference="78"/>
+        </Player>
+        <Player id="126">
+          <name>Aguero</name>
+          <infractions id="127"/>
+          <shots id="128">
+            <Shot id="129">
+              <isGoal>true</isGoal>
+            </Shot>
+          </shots>
+          <team reference="78"/>
+        </Player>
+        <Player id="130">
+          <name>Basanta</name>
+          <infractions id="131"/>
+          <shots id="132"/>
+          <team reference="78"/>
+        </Player>
+        <Player id="133">
+          <name>Campagnaro</name>
+          <infractions id="134"/>
+          <shots id="135"/>
+          <team reference="78"/>
+        </Player>
+        <Player id="136">
+          <name>Biglia</name>
+          <infractions id="137"/>
+          <shots id="138"/>
+          <team reference="78"/>
+        </Player>
+        <Player id="139">
+          <name>Higuain</name>
+          <infractions id="140"/>
+          <shots id="141"/>
+          <team reference="78"/>
+        </Player>
+        <Player id="142">
+          <name>Orion</name>
+          <infractions id="143"/>
+          <shots id="144"/>
+          <team reference="78"/>
+        </Player>
+        <Player id="145">
+          <name>Demichelis</name>
+          <infractions id="146">
+            <Infraction id="147">
+              <type>YELLOW</type>
+              <isPenaltyKick>false</isPenaltyKick>
+            </Infraction>
+          </infractions>
+          <shots id="148"/>
+          <team reference="78"/>
+        </Player>
+        <Player id="149">
+          <name>Palacio</name>
+          <infractions id="150"/>
+          <shots id="151"/>
+          <team reference="78"/>
+        </Player>
+        <Player id="152">
+          <name>Andujar</name>
+          <infractions id="153"/>
+          <shots id="154"/>
+          <team reference="78"/>
+        </Player>
+      </players>
+    </Team>
+    <Team id="155">
+      <name>Netherlands</name>
+      <points>0</points>
+      <players id="156">
+        <Player id="157">
+          <name>Cillessen</name>
+          <infractions id="158"/>
+          <shots id="159"/>
+          <team reference="155"/>
+        </Player>
+        <Player id="160">
+          <name>Martins</name>
+          <infractions id="161">
+            <Infraction id="162">
+              <type>YELLOW</type>
+              <isPenaltyKick>false</isPenaltyKick>
+            </Infraction>
+          </infractions>
+          <shots id="163"/>
+          <team reference="155"/>
+        </Player>
+        <Player id="164">
+          <name>Janmaat</name>
+          <infractions id="165"/>
+          <shots id="166"/>
+          <team reference="155"/>
+        </Player>
+        <Player id="167">
+          <name>Sneijder</name>
+          <infractions id="168"/>
+          <shots id="169">
+            <Shot id="170">
+              <isGoal>false</isGoal>
+            </Shot>
+          </shots>
+          <team reference="155"/>
+        </Player>
+        <Player id="171">
+          <name>Veltman</name>
+          <infractions id="172"/>
+          <shots id="173"/>
+          <team reference="155"/>
+        </Player>
+        <Player id="174">
+          <name>Clasie</name>
+          <infractions id="175"/>
+          <shots id="176"/>
+          <team reference="155"/>
+        </Player>
+        <Player id="177">
+          <name>Huntelaar</name>
+          <infractions id="178"/>
+          <shots id="179"/>
+          <team reference="155"/>
+        </Player>
+        <Player id="180">
+          <name>Vorm</name>
+          <infractions id="181"/>
+          <shots id="182"/>
+          <team reference="155"/>
+        </Player>
+        <Player id="183">
+          <name>Vlaar</name>
+          <infractions id="184"/>
+          <shots id="185">
+            <Shot id="186">
+              <isGoal>false</isGoal>
+            </Shot>
+          </shots>
+          <team reference="155"/>
+        </Player>
+        <Player id="187">
+          <name>Blind</name>
+          <infractions id="188"/>
+          <shots id="189"/>
+          <team reference="155"/>
+        </Player>
+        <Player id="190">
+          <name>DeGuzman</name>
+          <infractions id="191"/>
+          <shots id="192"/>
+          <team reference="155"/>
+        </Player>
+        <Player id="193">
+          <name>Robben</name>
+          <infractions id="194"/>
+          <shots id="195">
+            <Shot id="196">
+              <isGoal>true</isGoal>
+            </Shot>
+          </shots>
+          <team reference="155"/>
+        </Player>
+        <Player id="197">
+          <name>Kongolo</name>
+          <infractions id="198"/>
+          <shots id="199"/>
+          <team reference="155"/>
+        </Player>
+        <Player id="200">
+          <name>Lens</name>
+          <infractions id="201"/>
+          <shots id="202"/>
+          <team reference="155"/>
+        </Player>
+        <Player id="203">
+          <name>Wijnaldum</name>
+          <infractions id="204"/>
+          <shots id="205"/>
+          <team reference="155"/>
+        </Player>
+        <Player id="206">
+          <name>Krul</name>
+          <infractions id="207"/>
+          <shots id="208"/>
+          <team reference="155"/>
+        </Player>
+        <Player id="209">
+          <name>DeVrij</name>
+          <infractions id="210"/>
+          <shots id="211"/>
+          <team reference="155"/>
+        </Player>
+        <Player id="212">
+          <name>DeJong</name>
+          <infractions id="213"/>
+          <shots id="214"/>
+          <team reference="155"/>
+        </Player>
+        <Player id="215">
+          <name>VanPersie</name>
+          <infractions id="216"/>
+          <shots id="217"/>
+          <team reference="155"/>
+        </Player>
+        <Player id="218">
+          <name>Verhaegh</name>
+          <infractions id="219"/>
+          <shots id="220"/>
+          <team reference="155"/>
+        </Player>
+        <Player id="221">
+          <name>Kuyt</name>
+          <infractions id="222"/>
+          <shots id="223">
+            <Shot id="224">
+              <isGoal>true</isGoal>
+            </Shot>
+          </shots>
+          <team reference="155"/>
+        </Player>
+        <Player id="225">
+          <name>Fer</name>
+          <infractions id="226"/>
+          <shots id="227"/>
+          <team reference="155"/>
+        </Player>
+        <Player id="228">
+          <name>Depay</name>
+          <infractions id="229"/>
+          <shots id="230"/>
+          <team reference="155"/>
+        </Player>
+      </players>
+    </Team>
+    <Team id="231">
+      <name>Brazil</name>
+      <points>0</points>
+      <players id="232">
+        <Player id="233">
+          <name>Jefferson</name>
+          <infractions id="234"/>
+          <shots id="235"/>
+          <team reference="231"/>
+        </Player>
+        <Player id="236">
+          <name>Luiz</name>
+          <infractions id="237"/>
+          <shots id="238"/>
+          <team reference="231"/>
+        </Player>
+        <Player id="239">
+          <name>Hulk</name>
+          <infractions id="240"/>
+          <shots id="241"/>
+          <team reference="231"/>
+        </Player>
+        <Player id="242">
+          <name>Neymar</name>
+          <infractions id="243"/>
+          <shots id="244"/>
+          <team reference="231"/>
+        </Player>
+        <Player id="245">
+          <name>Dante</name>
+          <infractions id="246">
+            <Infraction id="247">
+              <type>YELLOW</type>
+              <isPenaltyKick>false</isPenaltyKick>
+            </Infraction>
+          </infractions>
+          <shots id="248"/>
+          <team reference="231"/>
+        </Player>
+        <Player id="249">
+          <name>Ramires</name>
+          <infractions id="250"/>
+          <shots id="251"/>
+          <team reference="231"/>
+        </Player>
+        <Player id="252">
+          <name>Willian</name>
+          <infractions id="253"/>
+          <shots id="254"/>
+          <team reference="231"/>
+        </Player>
+        <Player id="255">
+          <name>Victor</name>
+          <infractions id="256"/>
+          <shots id="257"/>
+          <team reference="231"/>
+        </Player>
+        <Player id="258">
+          <name>Alves</name>
+          <infractions id="259"/>
+          <shots id="260"/>
+          <team reference="231"/>
+        </Player>
+        <Player id="261">
+          <name>Fernandinho</name>
+          <infractions id="262"/>
+          <shots id="263"/>
+          <team reference="231"/>
+        </Player>
+        <Player id="264">
+          <name>Paulinho</name>
+          <infractions id="265"/>
+          <shots id="266"/>
+          <team reference="231"/>
+        </Player>
+        <Player id="267">
+          <name>Oscar</name>
+          <infractions id="268"/>
+          <shots id="269">
+            <Shot id="270">
+              <isGoal>true</isGoal>
+            </Shot>
+          </shots>
+          <team reference="231"/>
+        </Player>
+        <Player id="271">
+          <name>Maxwell</name>
+          <infractions id="272"/>
+          <shots id="273"/>
+          <team reference="231"/>
+        </Player>
+        <Player id="274">
+          <name>Gustavo</name>
+          <infractions id="275"/>
+          <shots id="276"/>
+          <team reference="231"/>
+        </Player>
+        <Player id="277">
+          <name>Bernard</name>
+          <infractions id="278"/>
+          <shots id="279"/>
+          <team reference="231"/>
+        </Player>
+        <Player id="280">
+          <name>Maicon</name>
+          <infractions id="281"/>
+          <shots id="282"/>
+          <team reference="231"/>
+        </Player>
+        <Player id="283">
+          <name>Silva</name>
+          <infractions id="284"/>
+          <shots id="285"/>
+          <team reference="231"/>
+        </Player>
+        <Player id="286">
+          <name>Marcelo</name>
+          <infractions id="287"/>
+          <shots id="288"/>
+          <team reference="231"/>
+        </Player>
+        <Player id="289">
+          <name>Fred</name>
+          <infractions id="290"/>
+          <shots id="291"/>
+          <team reference="231"/>
+        </Player>
+        <Player id="292">
+          <name>Cesar</name>
+          <infractions id="293"/>
+          <shots id="294"/>
+          <team reference="231"/>
+        </Player>
+        <Player id="295">
+          <name>Henrique</name>
+          <infractions id="296"/>
+          <shots id="297"/>
+          <team reference="231"/>
+        </Player>
+        <Player id="298">
+          <name>Hernanes</name>
+          <infractions id="299"/>
+          <shots id="300"/>
+          <team reference="231"/>
+        </Player>
+        <Player id="301">
+          <name>Jo</name>
+          <infractions id="302"/>
+          <shots id="303"/>
+          <team reference="231"/>
+        </Player>
+      </players>
+    </Team>
+    <Team id="304">
+      <name>Belgium</name>
+      <points>0</points>
+      <players id="305">
+        <Player id="306">
+          <name>Courtois</name>
+          <infractions id="307"/>
+          <shots id="308"/>
+          <team reference="304"/>
+        </Player>
+        <Player id="309">
+          <name>Kompany</name>
+          <infractions id="310"/>
+          <shots id="311"/>
+          <team reference="304"/>
+        </Player>
+        <Player id="312">
+          <name>DeBruyne</name>
+          <infractions id="313"/>
+          <shots id="314"/>
+          <team reference="304"/>
+        </Player>
+        <Player id="315">
+          <name>Hazard</name>
+          <infractions id="316"/>
+          <shots id="317"/>
+          <team reference="304"/>
+        </Player>
+        <Player id="318">
+          <name>Bossut</name>
+          <infractions id="319"/>
+          <shots id="320"/>
+          <team reference="304"/>
+        </Player>
+        <Player id="321">
+          <name>Defour</name>
+          <infractions id="322"/>
+          <shots id="323"/>
+          <team reference="304"/>
+        </Player>
+        <Player id="324">
+          <name>Dembele</name>
+          <infractions id="325"/>
+          <shots id="326"/>
+          <team reference="304"/>
+        </Player>
+        <Player id="327">
+          <name>Chadli</name>
+          <infractions id="328"/>
+          <shots id="329"/>
+          <team reference="304"/>
+        </Player>
+        <Player id="330">
+          <name>Alderweireld</name>
+          <infractions id="331"/>
+          <shots id="332"/>
+          <team reference="304"/>
+        </Player>
+        <Player id="333">
+          <name>Vertonghen</name>
+          <infractions id="334"/>
+          <shots id="335"/>
+          <team reference="304"/>
+        </Player>
+        <Player id="336">
+          <name>Fellaini</name>
+          <infractions id="337"/>
+          <shots id="338"/>
+          <team reference="304"/>
+        </Player>
+        <Player id="339">
+          <name>Mirallas</name>
+          <infractions id="340"/>
+          <shots id="341"/>
+          <team reference="304"/>
+        </Player>
+        <Player id="342">
+          <name>Mertens</name>
+          <infractions id="343"/>
+          <shots id="344"/>
+          <team reference="304"/>
+        </Player>
+        <Player id="345">
+          <name>Origi</name>
+          <infractions id="346"/>
+          <shots id="347"/>
+          <team reference="304"/>
+        </Player>
+        <Player id="348">
+          <name>Januzaj</name>
+          <infractions id="349"/>
+          <shots id="350"/>
+          <team reference="304"/>
+        </Player>
+        <Player id="351">
+          <name>Ciman</name>
+          <infractions id="352"/>
+          <shots id="353"/>
+          <team reference="304"/>
+        </Player>
+        <Player id="354">
+          <name>Vermaelen</name>
+          <infractions id="355"/>
+          <shots id="356"/>
+          <team reference="304"/>
+        </Player>
+        <Player id="357">
+          <name>Witsel</name>
+          <infractions id="358"/>
+          <shots id="359"/>
+          <team reference="304"/>
+        </Player>
+        <Player id="360">
+          <name>Lukaku</name>
+          <infractions id="361"/>
+          <shots id="362"/>
+          <team reference="304"/>
+        </Player>
+        <Player id="363">
+          <name>Mignolet</name>
+          <infractions id="364"/>
+          <shots id="365"/>
+          <team reference="304"/>
+        </Player>
+        <Player id="366">
+          <name>Van Buyten</name>
+          <infractions id="367"/>
+          <shots id="368"/>
+          <team reference="304"/>
+        </Player>
+        <Player id="369">
+          <name>Lombaerts</name>
+          <infractions id="370"/>
+          <shots id="371"/>
+          <team reference="304"/>
+        </Player>
+        <Player id="372">
+          <name>Vanden</name>
+          <infractions id="373"/>
+          <shots id="374"/>
+          <team reference="304"/>
+        </Player>
+      </players>
+    </Team>
+    <Team id="375">
+      <name>France</name>
+      <points>0</points>
+      <players id="376">
+        <Player id="377">
+          <name>Lloris</name>
+          <infractions id="378"/>
+          <shots id="379"/>
+          <team reference="375"/>
+        </Player>
+        <Player id="380">
+          <name>Varane</name>
+          <infractions id="381"/>
+          <shots id="382"/>
+          <team reference="375"/>
+        </Player>
+        <Player id="383">
+          <name>Cabella</name>
+          <infractions id="384"/>
+          <shots id="385"/>
+          <team reference="375"/>
+        </Player>
+        <Player id="386">
+          <name>Benzema</name>
+          <infractions id="387"/>
+          <shots id="388"/>
+          <team reference="375"/>
+        </Player>
+        <Player id="389">
+          <name>Mangala</name>
+          <infractions id="390"/>
+          <shots id="391"/>
+          <team reference="375"/>
+        </Player>
+        <Player id="392">
+          <name>Ruffier</name>
+          <infractions id="393"/>
+          <shots id="394"/>
+          <team reference="375"/>
+        </Player>
+        <Player id="395">
+          <name>Pogba</name>
+          <infractions id="396"/>
+          <shots id="397"/>
+          <team reference="375"/>
+        </Player>
+        <Player id="398">
+          <name>Schneiderlin</name>
+          <infractions id="399"/>
+          <shots id="400"/>
+          <team reference="375"/>
+        </Player>
+        <Player id="401">
+          <name>Debuchy</name>
+          <infractions id="402"/>
+          <shots id="403"/>
+          <team reference="375"/>
+        </Player>
+        <Player id="404">
+          <name>Sakho</name>
+          <infractions id="405"/>
+          <shots id="406"/>
+          <team reference="375"/>
+        </Player>
+        <Player id="407">
+          <name>Valbuena</name>
+          <infractions id="408"/>
+          <shots id="409"/>
+          <team reference="375"/>
+        </Player>
+        <Player id="410">
+          <name>Griezmann</name>
+          <infractions id="411"/>
+          <shots id="412"/>
+          <team reference="375"/>
+        </Player>
+        <Player id="413">
+          <name>Matuidi</name>
+          <infractions id="414"/>
+          <shots id="415"/>
+          <team reference="375"/>
+        </Player>
+        <Player id="416">
+          <name>Digne</name>
+          <infractions id="417"/>
+          <shots id="418"/>
+          <team reference="375"/>
+        </Player>
+        <Player id="419">
+          <name>Remy</name>
+          <infractions id="420"/>
+          <shots id="421"/>
+          <team reference="375"/>
+        </Player>
+        <Player id="422">
+          <name>Landreau</name>
+          <infractions id="423"/>
+          <shots id="424"/>
+          <team reference="375"/>
+        </Player>
+        <Player id="425">
+          <name>Evra</name>
+          <infractions id="426"/>
+          <shots id="427"/>
+          <team reference="375"/>
+        </Player>
+        <Player id="428">
+          <name>Cabaye</name>
+          <infractions id="429"/>
+          <shots id="430"/>
+          <team reference="375"/>
+        </Player>
+        <Player id="431">
+          <name>Giroud</name>
+          <infractions id="432"/>
+          <shots id="433"/>
+          <team reference="375"/>
+        </Player>
+        <Player id="434">
+          <name>Mavuba</name>
+          <infractions id="435"/>
+          <shots id="436"/>
+          <team reference="375"/>
+        </Player>
+        <Player id="437">
+          <name>Sagna</name>
+          <infractions id="438"/>
+          <shots id="439"/>
+          <team reference="375"/>
+        </Player>
+        <Player id="440">
+          <name>Sissoko</name>
+          <infractions id="441"/>
+          <shots id="442"/>
+          <team reference="375"/>
+        </Player>
+        <Player id="443">
+          <name>Koscielny</name>
+          <infractions id="444"/>
+          <shots id="445"/>
+          <team reference="375"/>
+        </Player>
+      </players>
+    </Team>
+    <Team id="446">
+      <name>Colombia</name>
+      <points>0</points>
+      <players id="447">
+        <Player id="448">
+          <name>Ospina</name>
+          <infractions id="449"/>
+          <shots id="450"/>
+          <team reference="446"/>
+        </Player>
+        <Player id="451">
+          <name>Arias</name>
+          <infractions id="452"/>
+          <shots id="453"/>
+          <team reference="446"/>
+        </Player>
+        <Player id="454">
+          <name>Armero</name>
+          <infractions id="455"/>
+          <shots id="456"/>
+          <team reference="446"/>
+        </Player>
+        <Player id="457">
+          <name>Rodriguez</name>
+          <infractions id="458"/>
+          <shots id="459"/>
+          <team reference="446"/>
+        </Player>
+        <Player id="460">
+          <name>Guarin</name>
+          <infractions id="461"/>
+          <shots id="462"/>
+          <team reference="446"/>
+        </Player>
+        <Player id="463">
+          <name>Balanta</name>
+          <infractions id="464"/>
+          <shots id="465"/>
+          <team reference="446"/>
+        </Player>
+        <Player id="466">
+          <name>Ramos</name>
+          <infractions id="467"/>
+          <shots id="468"/>
+          <team reference="446"/>
+        </Player>
+        <Player id="469">
+          <name>Mondragon</name>
+          <infractions id="470"/>
+          <shots id="471"/>
+          <team reference="446"/>
+        </Player>
+        <Player id="472">
+          <name>Zapata</name>
+          <infractions id="473"/>
+          <shots id="474"/>
+          <team reference="446"/>
+        </Player>
+        <Player id="475">
+          <name>Carbonero</name>
+          <infractions id="476"/>
+          <shots id="477"/>
+          <team reference="446"/>
+        </Player>
+        <Player id="478">
+          <name>Aguilar</name>
+          <infractions id="479"/>
+          <shots id="480"/>
+          <team reference="446"/>
+        </Player>
+        <Player id="481">
+          <name>Cuadrado</name>
+          <infractions id="482"/>
+          <shots id="483"/>
+          <team reference="446"/>
+        </Player>
+        <Player id="484">
+          <name>Ibarbo</name>
+          <infractions id="485"/>
+          <shots id="486"/>
+          <team reference="446"/>
+        </Player>
+        <Player id="487">
+          <name>Bacca</name>
+          <infractions id="488"/>
+          <shots id="489"/>
+          <team reference="446"/>
+        </Player>
+        <Player id="490">
+          <name>Quintero</name>
+          <infractions id="491"/>
+          <shots id="492"/>
+          <team reference="446"/>
+        </Player>
+        <Player id="493">
+          <name>Valdes</name>
+          <infractions id="494"/>
+          <shots id="495"/>
+          <team reference="446"/>
+        </Player>
+        <Player id="496">
+          <name>Yepes</name>
+          <infractions id="497"/>
+          <shots id="498"/>
+          <team reference="446"/>
+        </Player>
+        <Player id="499">
+          <name>Sanchez</name>
+          <infractions id="500"/>
+          <shots id="501"/>
+          <team reference="446"/>
+        </Player>
+        <Player id="502">
+          <name>Gutierrez</name>
+          <infractions id="503"/>
+          <shots id="504"/>
+          <team reference="446"/>
+        </Player>
+        <Player id="505">
+          <name>Vargas</name>
+          <infractions id="506"/>
+          <shots id="507"/>
+          <team reference="446"/>
+        </Player>
+        <Player id="508">
+          <name>Mejia</name>
+          <infractions id="509"/>
+          <shots id="510"/>
+          <team reference="446"/>
+        </Player>
+        <Player id="511">
+          <name>Zuniga</name>
+          <infractions id="512"/>
+          <shots id="513"/>
+          <team reference="446"/>
+        </Player>
+        <Player id="514">
+          <name>Martinez</name>
+          <infractions id="515"/>
+          <shots id="516"/>
+          <team reference="446"/>
+        </Player>
+      </players>
+    </Team>
+    <Team id="517">
+      <name>CostaRica</name>
+      <points>0</points>
+      <players id="518">
+        <Player id="519">
+          <name>Navas</name>
+          <infractions id="520"/>
+          <shots id="521"/>
+          <team reference="517"/>
+        </Player>
+        <Player id="522">
+          <name>Umana</name>
+          <infractions id="523"/>
+          <shots id="524"/>
+          <team reference="517"/>
+        </Player>
+        <Player id="525">
+          <name>Bolanos</name>
+          <infractions id="526"/>
+          <shots id="527"/>
+          <team reference="517"/>
+        </Player>
+        <Player id="528">
+          <name>Ruiz</name>
+          <infractions id="529"/>
+          <shots id="530"/>
+          <team reference="517"/>
+        </Player>
+        <Player id="531">
+          <name>Granados</name>
+          <infractions id="532"/>
+          <shots id="533"/>
+          <team reference="517"/>
+        </Player>
+        <Player id="534">
+          <name>Gamboa</name>
+          <infractions id="535"/>
+          <shots id="536"/>
+          <team reference="517"/>
+        </Player>
+        <Player id="537">
+          <name>Miller</name>
+          <infractions id="538"/>
+          <shots id="539"/>
+          <team reference="517"/>
+        </Player>
+        <Player id="540">
+          <name>Cubero</name>
+          <infractions id="541"/>
+          <shots id="542"/>
+          <team reference="517"/>
+        </Player>
+        <Player id="543">
+          <name>Acosta</name>
+          <infractions id="544"/>
+          <shots id="545"/>
+          <team reference="517"/>
+        </Player>
+        <Player id="546">
+          <name>Borges</name>
+          <infractions id="547"/>
+          <shots id="548"/>
+          <team reference="517"/>
+        </Player>
+        <Player id="549">
+          <name>Myrie</name>
+          <infractions id="550"/>
+          <shots id="551"/>
+          <team reference="517"/>
+        </Player>
+        <Player id="552">
+          <name>Barrantes</name>
+          <infractions id="553"/>
+          <shots id="554"/>
+          <team reference="517"/>
+        </Player>
+        <Player id="555">
+          <name>Brenes</name>
+          <infractions id="556"/>
+          <shots id="557"/>
+          <team reference="517"/>
+        </Player>
+        <Player id="558">
+          <name>Tejeda</name>
+          <infractions id="559"/>
+          <shots id="560"/>
+          <team reference="517"/>
+        </Player>
+        <Player id="561">
+          <name>Calvo</name>
+          <infractions id="562"/>
+          <shots id="563"/>
+          <team reference="517"/>
+        </Player>
+        <Player id="564">
+          <name>Cambronero</name>
+          <infractions id="565"/>
+          <shots id="566"/>
+          <team reference="517"/>
+        </Player>
+        <Player id="567">
+          <name>Gonzalez</name>
+          <infractions id="568"/>
+          <shots id="569"/>
+          <team reference="517"/>
+        </Player>
+        <Player id="570">
+          <name>Duarte</name>
+          <infractions id="571"/>
+          <shots id="572"/>
+          <team reference="517"/>
+        </Player>
+        <Player id="573">
+          <name>Campbell</name>
+          <infractions id="574"/>
+          <shots id="575"/>
+          <team reference="517"/>
+        </Player>
+        <Player id="576">
+          <name>Francis</name>
+          <infractions id="577"/>
+          <shots id="578"/>
+          <team reference="517"/>
+        </Player>
+        <Player id="579">
+          <name>Diaz</name>
+          <infractions id="580"/>
+          <shots id="581"/>
+          <team reference="517"/>
+        </Player>
+        <Player id="582">
+          <name>Pemberton</name>
+          <infractions id="583"/>
+          <shots id="584"/>
+          <team reference="517"/>
+        </Player>
+        <Player id="585">
+          <name>Urena</name>
+          <infractions id="586"/>
+          <shots id="587"/>
+          <team reference="517"/>
+        </Player>
+      </players>
+    </Team>
+  </teams>
+  <matches id="588">
+    <Match id="589">
+      <name>Brazil v Germany</name>
+      <goals1>1</goals1>
+      <goals2>7</goals2>
+      <teams id="590">
+        <Team reference="231"/>
+        <Team reference="3"/>
+      </teams>
+      <shots id="591">
+        <Shot reference="22"/>
+        <Shot reference="42"/>
+        <Shot reference="73"/>
+        <Shot reference="74"/>
+        <Shot reference="61"/>
+        <Shot reference="65"/>
+        <Shot reference="66"/>
+        <Shot reference="270"/>
+      </shots>
+      <infractions id="592">
+        <Infraction reference="247"/>
+      </infractions>
+    </Match>
+    <Match id="593">
+      <name>Argentina v Netherlands</name>
+      <goals1>4</goals1>
+      <goals2>2</goals2>
+      <teams id="594">
+        <Team reference="78"/>
+        <Team reference="155"/>
+      </teams>
+      <shots id="595">
+        <Shot reference="186"/>
+        <Shot reference="92"/>
+        <Shot reference="196"/>
+        <Shot reference="108"/>
+        <Shot reference="170"/>
+        <Shot reference="129"/>
+        <Shot reference="224"/>
+        <Shot reference="118"/>
+      </shots>
+      <infractions id="596">
+        <Infraction reference="162"/>
+        <Infraction reference="147"/>
+      </infractions>
+    </Match>
+    <Match id="597">
+      <name>Germany v Argentina</name>
+      <goals1>1</goals1>
+      <goals2>0</goals2>
+      <teams id="598">
+        <Team reference="3"/>
+        <Team reference="78"/>
+      </teams>
+      <shots id="599">
+        <Shot reference="29"/>
+      </shots>
+      <infractions id="600">
+        <Infraction reference="10"/>
+        <Infraction reference="14"/>
+        <Infraction reference="121"/>
+      </infractions>
+    </Match>
+    <Match id="601">
+      <name>France v Germany</name>
+      <goals1>0</goals1>
+      <goals2>0</goals2>
+      <teams id="602">
+        <Team reference="375"/>
+        <Team reference="3"/>
+      </teams>
+      <shots id="603"/>
+      <infractions id="604"/>
+    </Match>
+  </matches>
+</Manager>
