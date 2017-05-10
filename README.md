@@ -2,6 +2,8 @@
 ##A soccer scorekeeping app by Group 10
 **We have divided our repository into three separate folders, one for each version of the app.**
 
+TESTING FORK PULL REQUEST
+
 ###1. JAVA Desktop App
 The jar file(KickOff.jar) compiled from the source code can be found in the jar folder of the java desktop app. You can download it and run it to test the program on any computer running Java 1.8 or later. To download the jar directly from github you can click on it then select raw in the right corner. Included is a sample database: "soccerscores.xml" that can be downloaded and used locally as an alternative to using the online database. To use the app with the online database, simply select download scores under the file menu bar and upload scores after inputing new data.
 
